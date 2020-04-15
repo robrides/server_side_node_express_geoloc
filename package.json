@@ -1,0 +1,36 @@
+{
+  "name": "node_express_geoloc",
+  "version": "1.0.0",
+  "description": "Data selfie app by Joey Lee with Daniel Shiffman",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.28.0",
+    "@typescript-eslint/parser": "^2.28.0",
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robrides/server_side_node_express_geoloc.git"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "selfi",
+    "node",
+    "express"
+  ],
+  "author": "robrides robcodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robrides/server_side_node_express_geoloc/issues"
+  },
+  "homepage": "https://github.com/robrides/server_side_node_express_geoloc#readme"
+}

@@ -4,7 +4,7 @@
   "description": "Data selfie app by Joey Lee with Daniel Shiffman",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nedb": "^1.8.0"
   },
   "devDependencies": {
